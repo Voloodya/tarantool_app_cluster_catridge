@@ -1,5 +1,4 @@
 #!/usr/bin/env tarantool
-
 require('strict').on()
 
 -- configure path so that you can run application
